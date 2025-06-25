@@ -4,6 +4,9 @@ This is a ticketing system I created for one of my classes.
 The languages I used were MySQL, Java, HTML.
 We used Spring Boot to build this project.
 
+To access the webpage go to: 
+http://localhost:8080/
+
 Log in information listed below:
 
 Technicians:
